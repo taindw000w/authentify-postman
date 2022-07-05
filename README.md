@@ -8,7 +8,7 @@
 ![Post registery](https://user-images.githubusercontent.com/62297326/177305819-968bfebb-c13f-404b-ba15-730c6bae720a.png)
 
 <p> Authorization request </p>
-![Post authorization](https://user-images.githubusercontent.com/62297326/177312886-4ddc05ff-e1c8-468d-9495-098106617155.png)
+![Post authorization](https://user-images.githubusercontent.com/62297326/177313314-e1422121-d4a2-4f30-8288-acd39d54bd0e.png)
 
 <p> Get user request </p>
 ![Get user](https://user-images.githubusercontent.com/62297326/177305830-b33c3726-235e-4baf-828c-c206cf887198.png)
