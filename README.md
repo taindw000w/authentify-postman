@@ -1,7 +1,7 @@
 # authentify-postman
 <h1 align="center">Hi there, I'm <a href="https://github.com/taindw000w" target="_blank">reniur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student, IT from Russia 🇷🇺</h3>
 <h3 align="center">It`s my postman demo-requests of autentify users</h3>
 
 ![Post registery](https://user-images.githubusercontent.com/62297326/177305819-968bfebb-c13f-404b-ba15-730c6bae720a.png)
